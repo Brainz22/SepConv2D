@@ -17,4 +17,13 @@ cd hls4ml
 git branch --all #shows you are on your desired branch
 pip install -e .
 ```
-
+# Then, The Following Should Work for my Own SepConv2D branch 
+After creating and activating the environment with the `.yml` file:
+```bash
+mkdir Software
+cd Software
+git clone --single-branch --branch sepconv-latency-ioparallel https://github.com/Brainz22/hls4mlDuarteLab.git
+cd hls4ml
+git branch --all #shows you are on your desired branch
+pip install -e .
+```
