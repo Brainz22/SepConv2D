@@ -3,7 +3,7 @@
 This repo contains all the files I am using for the implementation of the Separable Conv2D layer.
 
 # Files
-
+`model_Test_04-16-24.ipynb` contains a simpler debugging code where I am trying the tracing part.
 `model_Test.ipynb` contains the simplest debugging code.
 `test_separable_conv2d_latency_ioparallel.ipynb` contains debugging code provided by Geusseppe.
 
